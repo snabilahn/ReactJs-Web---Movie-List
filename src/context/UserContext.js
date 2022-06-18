@@ -1,0 +1,14 @@
+import React, { createContext, useState } from "react"
+import axios from "axios"
+
+export const UserContext = createContext();
+
+export const UserProvider = props => {
+  
+  const [ loginStatus, setLoginStatus] = useState(false)
+  return (
+    <UserContext.Provider value={{ loginStatus, setLoginStatus}}>
+      {props.children}
+    </UserContext.Provider>
+  );
+};
