@@ -1,6 +1,6 @@
 # ReactJs Web - Movie and Game List
 
-Website ini merupakan website dengan menggunakan ReactJs yang terdiri dari 5 menu utama yaitu Homepage, Movie List, Game List, Login dan Register. Hasil dari website ini dapat dilihat melalui https://movie-games.netlify.app/
+Website ini merupakan website dengan menggunakan ReactJs yang terdiri dari 5 menu utama yaitu Homepage, Movie List, Game List, Login dan Register. Website ini merupakan bukan responsive website, melainkan adaptive website dengan ukuran layar 1920 x 1080. Hasil dari website ini dapat dilihat melalui https://movie-games.netlify.app/
 
 ## Features
 Website ini terdiri dari beberapa fitur yaitu :
